@@ -44,6 +44,8 @@ alias ccw='cc -Wall -Wextra -Werror -g'
 alias v='nvim'
 alias sv='sudo -E nvim'
 
+alias ll='ls -al'
+
 # git
 alias ga='git add'
 alias gap='git add -p'
