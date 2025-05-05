@@ -15,7 +15,7 @@ export PATH="$HOME/.local/bin:$PATH"
 
 # Preferred applications
 export EDITOR="nvim"
-export PAGER="bat"
+export PAGER="less"
 export TERMINAL="ghostty"
 export BROWSER="chromium"
 
